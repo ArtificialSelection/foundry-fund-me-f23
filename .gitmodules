@@ -1,3 +1,12 @@
 [submodule "lib/forge-std"]
 	path = Patrik_Collins/foundry-SS-again-f23/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Patrik_Collins/foundry-again-f23/foundry-fund-me-f23/lib/forge-std"]
+	path = Patrik_Collins/foundry-again-f23/foundry-fund-me-f23/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Patrik_Collins/foundry-again-f23/foundry-fund-me-f23/lib/chainlink-brownie-contracts"]
+	path = Patrik_Collins/foundry-again-f23/foundry-fund-me-f23/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Patrik_Collins/foundry-again-f23/foundry-fund-me-f23/lib/foundry-devops"]
+	path = Patrik_Collins/foundry-again-f23/foundry-fund-me-f23/lib/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
